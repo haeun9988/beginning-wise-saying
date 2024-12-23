@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String path = "db/wiseSaying/";
-//        File f = new File();
+        //File f = new File();
 
         String answer = "";
 
